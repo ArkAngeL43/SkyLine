@@ -1,1 +1,1 @@
-![](skyline.png)
+![](SkyLineLogo.png)
